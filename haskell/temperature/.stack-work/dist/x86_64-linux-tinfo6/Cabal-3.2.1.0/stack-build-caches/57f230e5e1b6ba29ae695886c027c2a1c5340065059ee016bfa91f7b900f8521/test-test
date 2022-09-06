@@ -1,0 +1,14 @@
+? /home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/cabal_macros.h
+: hash: 0d429f712aeee7e25eaa72687bf547ce4faa15130094c951062d19712c0dbce0
+/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/package.yaml:
+  hash: 954639bc3b9e73ee8354271369df607864c140a53224913230ebeb7f8412d755
+/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/temperature.cabal:
+  hash: 8dd736f15ee45271a419a5f6c1d70ad0ad4620cb3a5eefe3aff184a03ad85004
+/usr/include/stdc-predef.h:
+  hash: cb08cd5d4cc059a90833ac48a284d25016e8d56ded8ad4cd98d8ac59cc5053f3
+/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/test/Tests.hs:
+  hash: 0bebf075966c50a4a62fb22b6aa7f1bf12fda99666c36bd1a1f44b675ffc2319
+/home/cristianorocha/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+? /home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/test/autogen/Paths_temperature.hs
+: hash: 6eb63f9a8a59ff68accc861a50610f3e135a3fb9775f7d2ccd0efe4cc2fc617c
