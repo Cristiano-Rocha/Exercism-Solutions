@@ -30,7 +30,7 @@ version = Version [1,0,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/bin"
-libdir     = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/lib/x86_64-linux-ghc-8.10.7/temperature-1.0.0.0-EQo0BrclvbtC5FWTgqQqcK"
+libdir     = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/lib/x86_64-linux-ghc-8.10.7/temperature-1.0.0.0-9etzWuQbeGmQoOH3VDfVz"
 dynlibdir  = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/lib/x86_64-linux-ghc-8.10.7"
 datadir    = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/share/x86_64-linux-ghc-8.10.7/temperature-1.0.0.0"
 libexecdir = "/home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/install/x86_64-linux-tinfo6/57f230e5e1b6ba29ae695886c027c2a1c5340065059ee016bfa91f7b900f8521/8.10.7/libexec/x86_64-linux-ghc-8.10.7/temperature-1.0.0.0"

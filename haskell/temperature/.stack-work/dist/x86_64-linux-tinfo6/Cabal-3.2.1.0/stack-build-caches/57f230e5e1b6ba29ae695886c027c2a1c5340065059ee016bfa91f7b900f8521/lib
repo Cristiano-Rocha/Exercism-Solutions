@@ -9,6 +9,6 @@
 ? /home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/Paths_temperature.hs
 : hash: 31ea98f4906b7f4c013b890e680266799367eb5d4257744336093b8eb9a20b2f
 ? /home/cristianorocha/Documentos/Pessoal/Exercism-Solutions/haskell/temperature/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.2.1.0/build/autogen/cabal_macros.h
-: hash: 45f771e042742dbd7d96f61f90fce936db4270e7fcd9e684fad64a1ac6eed073
+: hash: cf29c63ce2eec7d28de293afdc5a10bd65a131684e79b02581a40b48b310f980
 /home/cristianorocha/.stack/programs/x86_64-linux/ghc-tinfo6-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
   hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4

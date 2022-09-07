@@ -155,10 +155,10 @@
 #endif /* MIN_TOOL_VERSION_strip */
 
 #ifndef CURRENT_PACKAGE_KEY
-#define CURRENT_PACKAGE_KEY "temperature-1.0.0.0-EQo0BrclvbtC5FWTgqQqcK"
+#define CURRENT_PACKAGE_KEY "temperature-1.0.0.0-9etzWuQbeGmQoOH3VDfVz"
 #endif /* CURRENT_PACKAGE_KEY */
 #ifndef CURRENT_COMPONENT_ID
-#define CURRENT_COMPONENT_ID "temperature-1.0.0.0-EQo0BrclvbtC5FWTgqQqcK"
+#define CURRENT_COMPONENT_ID "temperature-1.0.0.0-9etzWuQbeGmQoOH3VDfVz"
 #endif /* CURRENT_COMPONENT_ID */
 #ifndef CURRENT_PACKAGE_VERSION
 #define CURRENT_PACKAGE_VERSION "1.0.0.0"
